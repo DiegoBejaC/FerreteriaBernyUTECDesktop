@@ -1,0 +1,139 @@
+C:\Users\HP\source\repos\MenuFerreBerny\bin\Debug\MenuFerreBerny.exe.config
+C:\Users\HP\source\repos\MenuFerreBerny\bin\Debug\MenuFerreBerny.exe
+C:\Users\HP\source\repos\MenuFerreBerny\bin\Debug\MenuFerreBerny.pdb
+C:\Users\HP\source\repos\MenuFerreBerny\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\MenuFerreBerny\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\FerreBerny.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormInicio.resources
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormProductos.resources
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormProveedores.resources
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormUsuarios.resources
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\LoginBerny.LoginForm.resources
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.Menu.resources
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.Properties.Resources.resources
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\FerreBerny.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\FerreBerny.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\FerreBerny.csproj.CopyComplete
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.exe
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.pdb
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormAlmacenes.resources
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.Menu2.resources
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.Menu3.resources
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormCompras.resources
+C:\Users\HP\source\repos\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormVentas.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\MenuFerreBerny.exe.config
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\MenuFerreBerny.exe
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\MenuFerreBerny.pdb
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Newtonsoft.Json.xml
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\FerreBerny.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormAlmacenes.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormCompras.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormInicio.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormProductos.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormProveedores.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormUsuarios.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormVentas.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\LoginBerny.LoginForm.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.Menu.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.Menu2.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.Menu3.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.Properties.Resources.resources
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\FerreBerny.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\FerreBerny.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\FerreBerny.csproj.CopyComplete
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.exe
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.pdb
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\EntityFramework.dll
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\EntityFramework.xml
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diego\source\repos\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormMarcasCategorias.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\MenuFerreBerny.exe.config
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\MenuFerreBerny.exe
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\MenuFerreBerny.pdb
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\EntityFramework.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\EnvDTE.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\stdole.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Microsoft.MSXML.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\EntityFramework.xml
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\FerreBerny.csprojAssemblyReference.cache
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormAlmacenes.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormCompras.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormInicio.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormMarcasCategorias.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormProductos.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormProveedores.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormUsuarios.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormVentas.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\LoginBerny.LoginForm.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.Menu.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.Menu2.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.Menu3.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.Properties.Resources.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\FerreBerny.csproj.GenerateResource.cache
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\RdlCompile.cache
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\RdlCompile.compiled
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\FerreBerny.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\FerreBerny.csproj.CopyComplete
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.exe
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.pdb
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormKardex.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormReportes.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormReporteVentas.resources
+C:\Users\kelvi\OneDrive\Escritorio\Proyecto Ferreteria Berny -ElectivaIV\MenuFerreBerny\obj\Debug\MenuFerreBerny.FormReporteProductos.resources

@@ -1,0 +1,7 @@
+DESCRIPCIÓN DEL SISTEMA ----------
+
+Este sistema consiste en una aplicación de escritorio ejecutable en entorno de Windows, dirigida a una ferretería ficticia en donde se necesita una mejor gestión de sus inventarios. La aplicación mantiene un control de los movimientos de entrada y salida de los diferentes productos con los que cuentan en sus almacenes. Contiene información sobre los productos, almacenes, proveedores, compras y ventas, así como también de los usuarios que tienen acceso al sistema en el nivel de Administrador, proveedor o encargado de inventario. 
+
+Este sistema ha sido creado como parte de un trabajo grupal para la asignatura conocida como "Normas y estándares internacionales" en la carrera de Ingeniería en Sistemas de la Universidad Tecnológica de El Salvador (UTEC). Por este motivo y por el hecho de tratarse de una app dirigida a una empresa ficticia, la aplicación no se ha lanzado a producción.
+
+Este sistema se ha programado en el IDE Visual Studio, en lenguaje C# junto con EntityFramework. Conectando a una base de datos en SQL Server alojada en un servidor local.
